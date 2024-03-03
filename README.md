@@ -22,6 +22,9 @@
 
 It will give you the results in Terminal. If you want to test it with different txt you can change the paragraph in "sample.txt" file.
 
+For running the test cases. Initially run 'npm install' and 'npm run test'                                            
+
 Thank you!
+
 
 ## End 
